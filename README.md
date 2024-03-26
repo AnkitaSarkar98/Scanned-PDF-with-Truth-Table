@@ -8,6 +8,8 @@ Harnessing the power of web scraping techniques, this dataset offers valuable re
 
 Each PDF document has been meticulously scanned and integrated into the dataset, ensuring comprehensive coverage and relevance. Moreover, the accompanying ground truth statements, meticulously verified and validated, are structured in Excel format for easy accessibility and manipulation.
 
+Furthermore, within the collection of scanned PDFs, data is presented in both tabular and non-tabular formats. In the case of PDFs containing multiple tables, the ground truth specifically encapsulates data exclusively from the largest table present. This meticulous approach ensures that the ground truth accurately reflects the most comprehensive dataset available within each PDF document.
+
 Researchers, data scientists, and machine learning enthusiasts can leverage this dataset to explore a wide array of applications, including text extraction, document classification, sentiment analysis, and more. The seamless integration of PDF documents and ground truth statements facilitates efficient experimentation and analysis, fostering innovation and insights in the field of data science.
 
 We invite the community to explore, utilize, and contribute to this curated dataset, fostering collaboration and advancement in data-driven research and development.
